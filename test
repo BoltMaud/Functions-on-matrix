@@ -3,5 +3,4 @@ m1 : matrix([1, 2, 1], [a, 2, 6], [2, 3, 1])
 b : matrix([4],[6],[5])
 x : solve(m1, b)
 r : rank(m1)
-m : toto(m1)
 quit
